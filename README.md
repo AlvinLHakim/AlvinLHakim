@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlvinLHakim
 - 👀 I’m interested in UI/UX Developtment, Software Programming
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me alvinlhakim@gmail.com
 
 <!---
